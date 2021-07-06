@@ -61,5 +61,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: false,
-  footerText: <>MIT {new Date().getFullYear()} © Logflare.</>,
+  footerText: <>MIT {new Date().getFullYear()} © Logflare. Hosted on <a href="https://vercel.com">▲ Vercel</a></>,
 }
