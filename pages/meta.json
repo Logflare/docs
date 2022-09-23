@@ -1,13 +1,9 @@
 {
-  "index": "What is Logflare",
-  "changelog": "Changelog",
+  "index": "Introduction",
   "getting-started": "Getting Started",
-  "product": "Product",
-  "ingest": "Ingest",
-  "store": "Store",
-  "query": "Query",
-  "visualize": "Visualize",
-  "alert": "Alert",
-  "integrate": "Integrate",
-  "the-api": "API"
+  "source": "Source",
+  "querying-in-logflare": "Querying in Logflare",
+  "api": "API Reference",
+  "integrations": "Integrations",
+  "bigquery-sql": "BigQuery SQL"
 }
